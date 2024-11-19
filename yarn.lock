@@ -1820,21 +1820,21 @@ __metadata:
   linkType: hard
 
 "@nomicfoundation/hardhat-verify@npm:^2.0.3":
-  version: 2.0.3
-  resolution: "@nomicfoundation/hardhat-verify@npm:2.0.3"
+  version: 2.0.12
+  resolution: "@nomicfoundation/hardhat-verify@npm:2.0.12"
   dependencies:
     "@ethersproject/abi": ^5.1.2
     "@ethersproject/address": ^5.0.2
     cbor: ^8.1.0
-    chalk: ^2.4.2
     debug: ^4.1.1
     lodash.clonedeep: ^4.5.0
+    picocolors: ^1.1.0
     semver: ^6.3.0
     table: ^6.8.0
     undici: ^5.14.0
   peerDependencies:
     hardhat: ^2.0.4
-  checksum: 5cc3513d3385eb45c19081e79b1b2a67b13376f0d2c5dc2da07ee41886f82110b0af5b46e7fae6204db8a9d4dcda7e568a630a254bd5567779068bc29c22c86f
+  checksum: 510f9300e3dc92943dcbaab6eb26a71aa54eafd5579b4b911c1109fc5cca87a3db2dc53f7e5d56edcc729123c14786f235fcd8a513350ec96b491eb687d28409
   languageName: node
   linkType: hard
 
@@ -12202,6 +12202,13 @@ __metadata:
   version: 1.0.0
   resolution: "picocolors@npm:1.0.0"
   checksum: a2e8092dd86c8396bdba9f2b5481032848525b3dc295ce9b57896f931e63fc16f79805144321f72976383fc249584672a75cc18d6777c6b757603f372f745981
+  languageName: node
+  linkType: hard
+
+"picocolors@npm:^1.1.0":
+  version: 1.1.1
+  resolution: "picocolors@npm:1.1.1"
+  checksum: e1cf46bf84886c79055fdfa9dcb3e4711ad259949e3565154b004b260cd356c5d54b31a1437ce9782624bf766272fe6b0154f5f0c744fb7af5d454d2b60db045
   languageName: node
   linkType: hard
 
