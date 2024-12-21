@@ -4166,8 +4166,8 @@ __metadata:
   linkType: hard
 
 "abitype@npm:^1.0.2":
-  version: 1.0.2
-  resolution: "abitype@npm:1.0.2"
+  version: 1.0.8
+  resolution: "abitype@npm:1.0.8"
   peerDependencies:
     typescript: ">=5.0.4"
     zod: ^3 >=3.22.0
@@ -4176,7 +4176,7 @@ __metadata:
       optional: true
     zod:
       optional: true
-  checksum: 0986ec822ad279e7ea1d15398f88bad335a58419799f8ba80e3d5712fdd5a2b5858b387a1213d9da31571c3a42d10ca878a463cce11dae1bb17dbe4deeb40db4
+  checksum: 104bc2f6820ced8d2cb61521916f7f22c0981a846216f5b6144f69461265f7da137a4ae108bf4b84cd8743f2dd1e9fdadffc0f95371528e15a59e0a369e08438
   languageName: node
   linkType: hard
 
