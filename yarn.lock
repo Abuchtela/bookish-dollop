@@ -1779,19 +1779,19 @@ __metadata:
   linkType: hard
 
 "@nomicfoundation/hardhat-chai-matchers@npm:^2.0.3":
-  version: 2.0.3
-  resolution: "@nomicfoundation/hardhat-chai-matchers@npm:2.0.3"
+  version: 2.1.2
+  resolution: "@nomicfoundation/hardhat-chai-matchers@npm:2.1.2"
   dependencies:
     "@types/chai-as-promised": ^7.1.3
     chai-as-promised: ^7.1.1
     deep-eql: ^4.0.1
     ordinal: ^1.0.3
   peerDependencies:
-    "@nomicfoundation/hardhat-ethers": ^3.0.0
+    "@nomicfoundation/hardhat-ethers": ^3.1.0
     chai: ^4.2.0
-    ethers: ^6.1.0
-    hardhat: ^2.9.4
-  checksum: bdab50e569ef85498a4d3bc374cb635c3072aa734ad8e9eff71f87e1467cf0fa941fa286aedce1651fa190bfe19119d65cd2ac614314bf6db87eb7738cd49c33
+    ethers: ^6.14.0
+    hardhat: ^2.26.0
+  checksum: 7c783ccfe5bd3ceb5810df53bf2c1cbf374db42e53e96a523a6f239bbc633449abbe36c184c94945769e900601b149df8f041be3d69493730245ae8bb6e408dc
   languageName: node
   linkType: hard
 
