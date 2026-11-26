@@ -1796,15 +1796,15 @@ __metadata:
   linkType: hard
 
 "@nomicfoundation/hardhat-ethers@npm:^3.0.4, @nomicfoundation/hardhat-ethers@npm:^3.0.5":
-  version: 3.0.5
-  resolution: "@nomicfoundation/hardhat-ethers@npm:3.0.5"
+  version: 3.1.4
+  resolution: "@nomicfoundation/hardhat-ethers@npm:3.1.4"
   dependencies:
     debug: ^4.1.1
     lodash.isequal: ^4.5.0
   peerDependencies:
-    ethers: ^6.1.0
-    hardhat: ^2.0.0
-  checksum: 34b092dfec68f8d8673c96af717660327edc814bc5c9cdb5bc1f82d5bde2b18bc9b9d3499a632784a3d4f2505ac174217e55d31b546b7eaa77a5bb30b3c80bb4
+    ethers: ^6.14.0
+    hardhat: ^2.28.0
+  checksum: 428e47b9081e20fee441eaa861b589454dc0aba36ba8a95030744b07342239b2b15aaff0f60efd83e2c0ce22a2ed2a8a02382a2453369add964c2a786004010a
   languageName: node
   linkType: hard
 
